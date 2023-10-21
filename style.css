@@ -1,0 +1,235 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Extra+Condensed:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+
+.navbar {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    height: 100px;
+}
+
+.navbar input[type="text"] {
+    padding: 5px;
+    border: none;
+    border-radius: 3px;
+    font-size: 1.1rem;
+    width: 300px;
+}
+
+.navbar button#registro-btn {
+    background-color: #edb026;
+    color: #000000;
+    border: none;
+    border-radius: 3px;
+    padding: 5px 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    font-family: 'Sofia Sans Extra Condensed', sans-serif;
+}
+
+.navbar button#registro-btn:hover {
+    background-color: #ce9819;
+}
+
+.navbar button#registro-btn:active{
+    color: rgb(255, 255, 255);
+}
+
+.nav-right a {
+    text-decoration: none;
+    color: #fff;
+    margin-left: 15px;
+    font-weight: bold;
+    transition: color 0.3s;
+    font-size: 1.5rem;
+    font-family: 'Sofia Sans Extra Condensed', sans-serif;
+}
+
+.nav-right a:hover {
+    color: #edb026;
+}
+
+.nav-left .boton1{
+    background: none;
+    border: none;
+    outline: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.nav-left button i {
+    color: #000000;
+    font-size: 1.5rem;
+    margin: 0 20px 0 20px;
+}
+
+.nav-left button i:hover{
+    color: white;
+}
+
+.cantidad{
+    margin: 0;
+}
+
+#total{
+    margin-left: 10px;
+}
+
+#botonComprar{
+    text-decoration: none;
+    background-color: #edb026;
+    color: #000000;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-family: 'Paytone One', sans-serif;
+    text-align: center;
+    margin: 0 10px;
+    border-radius: 10px;
+}
+
+.productosCarrito{
+    border-bottom: 2px dashed rgba(0, 0, 0, 0.2);
+    font-family: 'Sofia Sans Extra Condensed', sans-serif; 
+}
+
+.main-titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    background-color: black;
+    color: white;
+    font-family: 'Paytone One', sans-serif;
+    margin: 20px 0 0 0;
+    font-size: 3rem;
+}
+
+.titulos{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 10vh;
+    background-color: #edb026;
+    font-size: 2rem;
+    font-family: 'Paytone One', sans-serif;
+}
+
+#productos {
+    font-family: 'Sofia Sans Extra Condensed', sans-serif; 
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    height: auto;
+}
+
+
+.producto { 
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+}
+
+.producto img {
+    max-width: 100%;
+    height: 300px;
+    border-radius: 2%;
+}
+
+.producto h3 {
+    margin: 10px 0;
+}
+
+.producto p {
+    margin: 5px 0;
+}
+
+.producto button {
+    background-color: #edb026;
+    color: #000000;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-family: 'Paytone One', sans-serif;
+}
+
+.producto button:hover {
+    background-color: #d59e1e;
+}
+
+.producto button:active{
+    color: rgb(255, 255, 255);
+}
+
+.mi-footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.mi-footer .informacion,
+.mi-footer .horario,
+.mi-footer .redes-sociales {
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.mi-footer h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.mi-footer .redes-sociales a {
+    display: inline-block;
+    margin: 5px;
+    text-decoration: none;
+}
+
+.mi-footer .redes-sociales i {
+    width: 30px;
+    height: 30px;
+    border: none;
+    transition: color 0.3s;
+    color: white;
+}
+
+.mi-footer .redes-sociales i:hover{
+    color: #edb026;
+}
+
+.btnQuitar{
+    background-color: #edb026;
+    color: #000000;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-family: 'Paytone One', sans-serif;
+    border-radius: 10px;
+    margin: 0 0 50px 100px;
+}
+
+#offcanvasRightLabel{   
+    position: absolute;
+    left: 1280px;
+    top: 20px;
+    z-index: 1000;
+    font-size: 14px;
+}
+
+
+
+
+

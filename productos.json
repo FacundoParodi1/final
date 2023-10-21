@@ -1,0 +1,243 @@
+[
+    {
+        "id": 1,
+        "nombre": "Simple + Papas Fritas",
+        "precio": 4500,
+        "categoria": "hamburguesas",
+        "imagen": "./img/burga-chessy.jpeg",
+        "dato": "Medallon x1 Cheddar Fetas x2 Bacon Cebolla Crispy Aderezo"
+    },
+    {
+        "id": 2,
+        "nombre": "Doble + Papas Fritas",
+        "precio": 4900,
+        "categoria": "hamburguesas",
+        "imagen": "./img/bugas-spici.jpeg",
+        "dato": "Medallon x2 Cheddar Fetas x4 Bacon Cebolla Crispy Aderezo"
+    },
+    {
+        "id": 3,
+        "nombre": "Sweet Onion Simple + Papas Fritas",
+        "precio": 4500,
+        "categoria": "hamburguesas",
+        "imagen": "./img/burga-bbq.webp",
+        "dato": "Medallon x1 Cheddar Fetas x2 Bacon Cebolla Caramelizada"
+    },
+    {
+        "id": 4,
+        "nombre": "Sweet Onion Doble + Papas Fritas",
+        "precio": 4900,
+        "categoria": "hamburguesas",
+        "imagen": "./img/burga-comfort.jpeg",
+        "dato": "Medallon x2 Cheddar Fetas x4 Bacon Cebolla Caramelizada"
+    },
+    {
+        "id": 5,
+        "nombre": "Pesto Burger Doble + Papas fritas",
+        "precio": 4500,
+        "categoria": "hamburguesas",
+        "imagen": "./img/burga-guacamole.jpg",
+        "dato": "Medallon x 2 + Cheddar fetas x 4 + Tomate + Pesto + Alioli + Papas fritas"
+    },
+    {
+        "id": 6,
+        "nombre": "Cheese Burger Simple + Papas Fritas",
+        "precio": 3900,
+        "categoria": "hamburguesas",
+        "imagen": "./img/burga-doubletrouble.png",
+        "dato": "Medallon x1 Cheddar Feta x2"
+    },
+    {
+        "id": 7,
+        "nombre": "Cheese Burger Doble + Papas Fritas",
+        "precio": 4500,
+        "categoria": "hamburguesas",
+        "imagen": "./img/burga-bbq.webp",
+        "dato": "Medallon x2 Cheddar x4"
+    },
+    {
+        "id": 8,
+        "nombre": "Cheese Burger Triple + Papas Fritas",
+        "precio": 5400,
+        "categoria": "hamburguesas",
+        "imagen": "./img/burga-pesto.jpeg",
+        "dato": "Medallon x3 Cheddar Fetas x6"
+    },
+    {
+        "id": 9,
+        "nombre": "American Burger Simple + Papas Fritas",
+        "precio": 4200,
+        "categoria": "hamburguesas",
+        "imagen": "./img/burga-sunny.png",
+        "dato": "Medallon x 1 Cheddar Fetas x2 Tomate Lechuga Cebolla Cruda Dill Pickles Aderezo Thousand Island"
+    },
+    {
+        "id": 10,
+        "nombre": "American Burger Doble + Papas Fritas",
+        "precio": 4600,
+        "categoria": "hamburguesas",
+        "imagen": "./img/burga-pine.jpeg",
+        "dato": "Medallon x2 Cheddar Fetas x4 Tomate Lechuga Cebolla Cruda Dill Pickles Aderezo Thousand Island"
+    },
+    {
+        "id": 11,
+        "nombre": "Grilled Onion + Papas Fritas",
+        "precio": 4500,
+        "categoria": "hamburguesas",
+        "imagen": "./img/burga-comfort.jpeg",
+        "dato": "Medallon x2 Cheddar x4 Cebolla Grilled"
+    },
+    {
+        "id": 12,
+        "nombre": "Royal Simple + Papas Fritas",
+        "precio": 4100,
+        "categoria": "hamburguesas",
+        "imagen": "./img/burga-pepperjack.jpeg",
+        "dato": "Medallon x1 Cheddar Fetas x2 Cebolla Cruda Ketchup Mostaza Pepino"
+    },
+    {
+        "id": 13,
+        "nombre": "Royal Doble + Papas Fritas",
+        "precio": 4500,
+        "categoria": "hamburguesas",
+        "imagen": "./img/burga-pine.jpeg",
+        "dato": "Medallon x2 Cheddar Fetas x4 Cebolla Cruda Ketchup Mostaza Pepino"
+    },
+    {
+        "id": 14,
+        "nombre": "California simple + Papas fritas",
+        "precio": 4200,
+        "categoria": "hamburguesas",
+        "imagen": "./img/burga-doubletrouble.png",
+        "dato": "Medallón, cheddar x2, lechuga, tomate, cebolla, doble california sauce y papas fritas"
+    },
+    {
+        "id": 15,
+        "nombre": "California doble + Papas fritas",
+        "precio": 4600,
+        "categoria": "hamburguesas",
+        "imagen": "./img/burga-bbq.webp",
+        "dato": "Medallon x2, Cheddar x4, Lechuga, Tomate, Cebolla, Doble California Sauce y papas fritas"
+    },
+    {
+        "id": 16,
+        "nombre": "Pepsi Regular",
+        "precio": 800,
+        "categoria": "bebidas",
+        "imagen": "./img/pepsiRegular.png",
+        "dato": "354ml"
+    },
+    {
+        "id": 17,
+        "nombre": "Pepsi Black",
+        "precio": 800,
+        "categoria": "bebidas",
+        "imagen": "./img/pepsiBlack.png",
+        "dato": "354ml"
+    },
+    {
+        "id": 18,
+        "nombre": "Seven up Regular",
+        "precio": 800,
+        "categoria": "bebidas",
+        "imagen": "./img/7upRegular.png",
+        "dato": "354ml"
+    },
+    {
+        "id": 19,
+        "nombre": "Seven up Free",
+        "precio": 800,
+        "categoria": "bebidas",
+        "imagen": "./img/7upFree.png",
+        "dato": "354ml"
+    },
+    {
+        "id": 20,
+        "nombre": "Eco de los Andes",
+        "precio": 900,
+        "categoria": "bebidas",
+        "imagen": "./img/AguaMineral.jpeg",
+        "dato": "Agua Mineral Sin Gas"
+    },
+    {
+        "id": 21,
+        "nombre": "Cerveza Patagonia 24.7",
+        "precio": 1200,
+        "categoria": "bebidas",
+        "imagen": "./img/Pata24.png",
+        "dato": "24.7 410ml"
+    },
+    {
+        "id": 22,
+        "nombre": "Cerveza Patagonia Citra",
+        "precio": 1200,
+        "categoria": "bebidas",
+        "imagen": "./img/PataCiber.jpeg",
+        "dato": "Citra  410ml"
+    },
+    {
+        "id": 23,
+        "nombre": "Cerveza Patagonia Bohemian",
+        "precio": 1200,
+        "categoria": "bebidas",
+        "imagen": "./img/PataBohemia.png",
+        "dato": "Bohemian 410ml"
+    },
+    {
+        "id": 24,
+        "nombre": "Cerveza Patagonia Amber Lager",
+        "precio": 1200,
+        "categoria": "bebidas",
+        "imagen": "./img/PataAmbar.png",
+        "dato": "Amber Lager 410ml"
+    },
+    {
+        "id": 25,
+        "nombre": "BBQ",
+        "precio": 400,
+        "categoria": "salsas",
+        "imagen": "./img/salsaBBQ.jpeg",
+        "dato": "Dip salsa BBQ"
+    },
+    {
+        "id": 26,
+        "nombre": "Marinara",
+        "precio": 400,
+        "categoria": "salsas",
+        "imagen": "./img/salsaMariana.jpeg",
+        "dato": "Dip Salsa Marinara"
+    },
+    {
+        "id": 27,
+        "nombre": "Relish Sauce",
+        "precio": 400,
+        "categoria": "salsas",
+        "imagen": "./img/salsaRelish.jpeg",
+        "dato": "Dip Relish Sauce"
+    },
+    {
+        "id": 28,
+        "nombre": "Ali Oli Jalapeños",
+        "precio": 400,
+        "categoria": "salsas",
+        "imagen": "./img/salsaALIJALA.jpeg",
+        "dato": "Dip Salsa Ali Oli Jalapeño"
+    },
+    {
+        "id": 29,
+        "nombre": "California Sauce",
+        "precio": 400,
+        "categoria": "salsas",
+        "imagen": "./img/salsaCali.jpeg",
+        "dato": "Dip California Sauce"
+    },
+    {
+        "id": 30,
+        "nombre": "Salsa Criolla",
+        "precio": 400,
+        "categoria": "salsas",
+        "imagen": "./img/salsaMariana.jpeg",
+        "dato": "Dip Salsa Criolla"
+    }
+    
+]
